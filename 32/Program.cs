@@ -1,12 +1,12 @@
 ﻿// Задать массив из 8 элементов, заполненных нулями и единицами вывести их на экран
 
-int[] array = new int[8];
+int[] array = new int[18];
 Random rand = new Random();
 
 
-for (int i = 0; i < 8; i++) 
+for (int i = 0; i < array.Length; i++) 
 {
     array[i]=rand.Next(0,2);
-    System.Console.WriteLine($"{array[i]}");
+    System.Console.Write($"{array[i],2}");
 }
 

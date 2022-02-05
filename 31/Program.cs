@@ -1,6 +1,10 @@
 ﻿// создать массив из 8 элементов
 
-int [] array= new {1,2,3,4,5,6,7,8};
+int [] array= new int [8];
+Random range= new Random();
 
-for (int i=0, i<8,i++);
-Console.WriteLine(array[i]);
+for (int i=0; i<8; i++)
+{
+    array[i] = Random.Next(0,100);
+    Console.WriteLine(array[i]);
+}
