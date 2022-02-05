@@ -3,3 +3,13 @@ C:\Users\Полина\Desktop\Разработчик\C#\All task\31\obj\Debug\ne
 C:\Users\Полина\Desktop\Разработчик\C#\All task\31\obj\Debug\net6.0\31.AssemblyInfoInputs.cache
 C:\Users\Полина\Desktop\Разработчик\C#\All task\31\obj\Debug\net6.0\31.AssemblyInfo.cs
 C:\Users\Полина\Desktop\Разработчик\C#\All task\31\obj\Debug\net6.0\31.csproj.CoreCompileInputs.cache
+C:\Users\Полина\Desktop\Разработчик\C#\All task\31\bin\Debug\net6.0\31.exe
+C:\Users\Полина\Desktop\Разработчик\C#\All task\31\bin\Debug\net6.0\31.deps.json
+C:\Users\Полина\Desktop\Разработчик\C#\All task\31\bin\Debug\net6.0\31.runtimeconfig.json
+C:\Users\Полина\Desktop\Разработчик\C#\All task\31\bin\Debug\net6.0\31.dll
+C:\Users\Полина\Desktop\Разработчик\C#\All task\31\bin\Debug\net6.0\ref\31.dll
+C:\Users\Полина\Desktop\Разработчик\C#\All task\31\bin\Debug\net6.0\31.pdb
+C:\Users\Полина\Desktop\Разработчик\C#\All task\31\obj\Debug\net6.0\31.dll
+C:\Users\Полина\Desktop\Разработчик\C#\All task\31\obj\Debug\net6.0\ref\31.dll
+C:\Users\Полина\Desktop\Разработчик\C#\All task\31\obj\Debug\net6.0\31.pdb
+C:\Users\Полина\Desktop\Разработчик\C#\All task\31\obj\Debug\net6.0\31.genruntimeconfig.cache
