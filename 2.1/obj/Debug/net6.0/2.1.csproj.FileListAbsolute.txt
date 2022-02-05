@@ -1,0 +1,15 @@
+C:\Users\Полина\Desktop\Разработчик\C#\All task\2.1\bin\Debug\net6.0\2.1.exe
+C:\Users\Полина\Desktop\Разработчик\C#\All task\2.1\bin\Debug\net6.0\2.1.deps.json
+C:\Users\Полина\Desktop\Разработчик\C#\All task\2.1\bin\Debug\net6.0\2.1.runtimeconfig.json
+C:\Users\Полина\Desktop\Разработчик\C#\All task\2.1\bin\Debug\net6.0\2.1.dll
+C:\Users\Полина\Desktop\Разработчик\C#\All task\2.1\bin\Debug\net6.0\ref\2.1.dll
+C:\Users\Полина\Desktop\Разработчик\C#\All task\2.1\bin\Debug\net6.0\2.1.pdb
+C:\Users\Полина\Desktop\Разработчик\C#\All task\2.1\obj\Debug\net6.0\2.1.csproj.AssemblyReference.cache
+C:\Users\Полина\Desktop\Разработчик\C#\All task\2.1\obj\Debug\net6.0\2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Полина\Desktop\Разработчик\C#\All task\2.1\obj\Debug\net6.0\2.1.AssemblyInfoInputs.cache
+C:\Users\Полина\Desktop\Разработчик\C#\All task\2.1\obj\Debug\net6.0\2.1.AssemblyInfo.cs
+C:\Users\Полина\Desktop\Разработчик\C#\All task\2.1\obj\Debug\net6.0\2.1.csproj.CoreCompileInputs.cache
+C:\Users\Полина\Desktop\Разработчик\C#\All task\2.1\obj\Debug\net6.0\2.1.dll
+C:\Users\Полина\Desktop\Разработчик\C#\All task\2.1\obj\Debug\net6.0\ref\2.1.dll
+C:\Users\Полина\Desktop\Разработчик\C#\All task\2.1\obj\Debug\net6.0\2.1.pdb
+C:\Users\Полина\Desktop\Разработчик\C#\All task\2.1\obj\Debug\net6.0\2.1.genruntimeconfig.cache
