@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Сравнение двух чисел
 
 int a=3, b=1;
 if (a>b) System.Console.WriteLine("a больше b");
