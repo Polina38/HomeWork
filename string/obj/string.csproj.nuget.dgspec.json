@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Полина\\Desktop\\Разработчик\\C#\\All task\\string\\string.csproj": {}
+    "D:\\Users\\Полина\\Desktop\\Разработчик\\C#\\All task\\string\\string.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Полина\\Desktop\\Разработчик\\C#\\All task\\string\\string.csproj": {
+    "D:\\Users\\Полина\\Desktop\\Разработчик\\C#\\All task\\string\\string.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Полина\\Desktop\\Разработчик\\C#\\All task\\string\\string.csproj",
+        "projectUniqueName": "D:\\Users\\Полина\\Desktop\\Разработчик\\C#\\All task\\string\\string.csproj",
         "projectName": "string",
-        "projectPath": "C:\\Users\\Полина\\Desktop\\Разработчик\\C#\\All task\\string\\string.csproj",
-        "packagesPath": "C:\\Users\\Полина\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Полина\\Desktop\\Разработчик\\C#\\All task\\string\\obj\\",
+        "projectPath": "D:\\Users\\Полина\\Desktop\\Разработчик\\C#\\All task\\string\\string.csproj",
+        "packagesPath": "C:\\Users\\polina\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Полина\\Desktop\\Разработчик\\C#\\All task\\string\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Полина\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\polina\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

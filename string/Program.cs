@@ -1,5 +1,12 @@
-﻿// Проверить истинность утверждения ¬(X ⋁ Y) = ¬X ⋀ ¬Y
+﻿// Прочитать слово наоборот
+
+Console.Clear();
+
+System.Console.WriteLine("Введите слово");
+string s = Console.ReadLine();
 
 
-
-Console.WriteLine("Hello, World!");
+for (int i = s.Length - 1; i >= 0; i--)
+{
+        Console.Write(s[i]);
+}
