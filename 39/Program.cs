@@ -12,7 +12,7 @@ for (int i = 0; i < arr.Length; i++)
     System.Console.Write($"{arr[i],5}");
 }
 System.Console.WriteLine();
-for (int j=0; j<arr.Length; j++)
+for (int j=0; j<arr.Length/2; j++)
 {
     count= arr[j]*arr[arr.Length-1-j];
     System.Console.Write($"{count,5}");
