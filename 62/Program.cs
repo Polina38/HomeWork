@@ -5,7 +5,7 @@
 Console.Clear();
 Input(out int x, out int y);
 int[,] Matrix = new int[x, y];
-int [,]Matrix1= new int[x,y];
+int[,] Matrix1 = new int[x, y];
 FillArray(Matrix);
 PrintArray(Matrix);
 FindMin(Matrix, out int imin, out int jmin);
@@ -47,42 +47,42 @@ void PrintArray(int[,] Array)
     System.Console.WriteLine();
 }
 
-void FindMin (int [,] Array, out int imin, out int jmin)
+void FindMin(int[,] Array, out int imin, out int jmin)
 {
 
- int min = Array[0,0]; imin=0; jmin=0;
+    int min = Array[0, 0]; imin = 0; jmin = 0;
 
     for (int i = 0; i < Array.GetLength(0); i++)
     {
 
-                       
+
         for (int j = 0; j < Array.GetLength(1); j++)
         {
-            
+
             if (Array[i, j] < min)
             {
                 min = Array[i, j];
-                imin=i; jmin=j;
+                imin = i; jmin = j;
             }
 
         }
     }
-System.Console.WriteLine($"минимальное число {min} строка {imin} столбец {jmin}");
+    System.Console.WriteLine($"минимальное число {min} строка {imin} столбец {jmin}");
 }
 
 void Task(int[,] Array)
 
 {
-int [,] Table= new int[Array.GetLength(0),Array.GetLength(1)];
+    int[,] Table = new int[Array.GetLength(0), Array.GetLength(1)];
 
-for (int i = 0; i < Array.GetLength(0); i++)
+    for (int i = 0; i < Array.GetLength(0); i++)
     {
-                       
+
         for (int j = 0; j < Array.GetLength(1); j++)
         {
 
-           Table[i,j]= Array [i,j];
-           if (i !=imin && j !=jmin) System.Console.Write($"{Table[i, j],3}");
+            Table[i, j] = Array[i, j];
+            if (i != imin && j != jmin) System.Console.Write($"{Table[i, j],3}");
 
         }
         System.Console.WriteLine();
