@@ -16,8 +16,8 @@ for (int i=0; i<table.GetLength(0); i++)
 {
     for (int j=0; j<table.GetLength(1); j++)
     {
-        table [i,j]= new Random().NextDouble();
-        System.Console.Write(table[i,j]+" ");
+        table [i,j]= new Random().NextDouble()*100;
+        System.Console.Write(Math.Round(table[i,j],2)+" ");
     }
     System.Console.WriteLine();
 }
